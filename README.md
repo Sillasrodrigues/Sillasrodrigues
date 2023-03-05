@@ -4,14 +4,14 @@ hi there 👋  My name is Sillas
 Developer
 -----------------------------
 
-I'm 32 years old and I´m looking for a opportunity as a junior developer, right now I´m studying Python language in the web aplication MIMO.
+I'm 32 years old and I´m looking for a opportunity as a junior developer, right now I´m studying Python language, SQLite and Web development on the web aplication MIMO.
 
 I am also a English studient
 
-* 🌍  I'm live in São Paulo, Brazil
+* 🌍  I'm live in São Paulo/SP, Brazil
 * ✉️  You can contact me at [paulo.silvarodrigues@outlook.com](mailto:paulo.silvarodrigues@outlook.com)
-* 🧠  I have knowledge intermediate Python languages
-* 🤝  I have knowledge intermediate SQLite python
+* 🧠  I have knowledge basic Python languages
+* 🧠  I have knowledge basic SQLite python
 * ⚡  I like sports and my favorite is Soccer
 
 ### Skills
@@ -21,7 +21,7 @@ I am also a English studient
 <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue width="36" height="36" alt="python" /></a>
 
 ### Socials
-<p align="left"> <a href="https://www.github.com/sillasrodrigues" target="_dark" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sillasrodrigues" target="_dark" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+<p align="left"> <a href="https://www.github.com/sillasrodrigues" target="_white" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sillasrodrigues" target="_dark" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 
 <b>My GitHub Stats</b>
 
